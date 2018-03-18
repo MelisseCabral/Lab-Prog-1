@@ -1,0 +1,16 @@
+example_tests:
+-   name: exemplo1
+    input: |
+        anilina
+    output: |
+        'anilina' é palíndromo
+-   name: exemplo2
+    input: |
+        abracadabra
+    output: |
+        'abracadabra' não é palíndromo
+-   name: exemplo3
+    input: |
+        subi no onibus
+    output: |
+        'subi no onibus' é palíndromo

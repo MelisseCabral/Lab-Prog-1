@@ -1,0 +1,17 @@
+example_tests:
+-   name: exemplo 1
+    input: |
+        12545
+        32542
+    output: |
+        Dígitos coincidentes
+        2 na posição 2
+        4 na posição 4
+        Soma de dígitos coincidentes: 6
+-   name: exemplo 2
+    input: |
+        2163155
+        1238027
+    output: |
+        Dígitos coincidentes
+        Soma de dígitos coincidentes: 0

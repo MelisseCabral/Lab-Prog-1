@@ -1,0 +1,11 @@
+example_tests:
+-   name: exemplo
+    input: |
+        10.0
+        8.0
+        6.0
+        20
+        40
+    output: |
+        Média Final: 7.6
+

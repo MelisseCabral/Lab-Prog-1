@@ -1,0 +1,13 @@
+example_tests:
+-   name: |-
+        um
+    input: |
+        5
+    output: |
+        5 não é um número perfeito.
+-   name: |-
+        dois
+    input: |
+        6
+    output: |
+        6 é um número perfeito.

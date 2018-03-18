@@ -1,0 +1,23 @@
+example_tests:
+-   name: exemplo1
+    input: |
+        9
+        10
+        10
+        6
+        17
+        12
+        14
+        14
+        7
+        6
+        23
+        30
+    output: |
+        Média mensal de atendimentos: 13.17
+        ----
+        Mês 5: 17
+        Mês 7: 14
+        Mês 8: 14
+        Mês 11: 23
+        Mês 12: 30

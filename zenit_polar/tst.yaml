@@ -1,0 +1,21 @@
+example_tests:
+-   name: exemplo1
+    input: |
+        Python
+        fim
+    output: |
+        Zyrhel
+-   name: exemplo2
+    input: |
+        zenit
+        polar
+        fim
+    output: |
+        polar
+        zenit
+-   name: exemplo3
+    input: |
+        Eu consegui \o/
+        fim
+    output: |
+        Ou celsogua \e/

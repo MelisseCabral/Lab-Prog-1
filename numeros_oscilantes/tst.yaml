@@ -1,0 +1,12 @@
+example_tests:
+-   name: exemplo1
+    input: |
+        25638
+    output: |
+        verdadeiro: 5 algarismos.
+-   name: exemplo2
+    input: |+
+        77
+    output: |
+        falso: 2 algarismos.
+

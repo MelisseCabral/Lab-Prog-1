@@ -1,0 +1,12 @@
+example_tests:
+-   name: exemplo 1
+    input: |
+        12145
+    output: |
+        0057
+-   name: exemplo 2
+    input: |
+        10220
+    output: |
+        0060
+

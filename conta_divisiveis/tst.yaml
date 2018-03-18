@@ -1,0 +1,10 @@
+example_tests:
+-   name: exemplo1
+    input: |
+        9
+        3
+        20
+        18
+        15
+    output: |
+        1 (33.3%)

@@ -1,0 +1,14 @@
+example_tests:
+-   name: exemplo
+    input: |
+        678.00
+        6.62
+        8.0
+    output: |
+        Salário atual? Aumento projetado (em %)? Nova contribuição previdenciária (em %)? 
+        Dados do NOVO salário
+        ===
+        Salário: R$ 722.88
+        Contribuição previdenciária: R$ 57.83 (8.0%)
+        Salário líquido: R$ 665.05
+

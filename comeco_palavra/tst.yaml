@@ -1,0 +1,14 @@
+example_tests:
+-   name: |-
+        TC02
+    input: |
+        3
+        p
+        programacao
+        Python
+        LabProg1
+    output: |
+        n? c? palavra? programacao comeca com p
+        palavra? Python comeca com p
+        palavra? LabProg1 nao comeca com p
+

@@ -1,0 +1,15 @@
+example_tests:
+-   name: exemplo
+    input: |
+        10
+    output: |
+        Opção 1: 3 fatias cada, 2 de resto
+        Opção 2: 3.20 fatias cada
+
+-   name: exemplo2
+    input: |
+        8
+    output: |
+        Opção 1: 4 fatias cada, 0 de resto
+        Opção 2: 4.00 fatias cada
+

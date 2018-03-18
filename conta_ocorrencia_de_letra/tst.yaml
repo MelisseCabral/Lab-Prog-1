@@ -1,0 +1,16 @@
+example_tests:
+-   name: exemplo1
+    input: |
+        a
+        cada macaco no seu galho
+    output: |
+        Letra a:
+        5 ocorrência(s) (20.83 %)
+        Na(s) posição(ões): (2, 4, 7, 9, 21)
+-   name: exemplo2
+    input: |
+        x
+        bicicleta
+    output: |
+        Letra x:
+        0 ocorrência(s) (0.00 %)

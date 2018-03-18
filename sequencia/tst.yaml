@@ -1,0 +1,25 @@
+example_tests:
+-   name: |-
+        EX03
+    input: |
+        20
+    output: |
+        1
+        2
+        4
+        8
+-   name: |-
+        EX02
+    input: |
+        2
+    output: |
+        1
+-   name: |-
+        EX01
+    input: |
+        10
+    output: |
+        1
+        2
+        4
+

@@ -1,0 +1,55 @@
+example_tests:
+-   name: teste01 variado
+    input: |
+        3.6
+        3.2
+        3.9
+        4.8
+        4.1
+        fim
+    output: |
+        3, 4.80 > 3.92
+-   name: teste01
+    input: |
+        3.6
+        3.2
+        3.9
+        4.1
+        4.8
+        fim
+    output: |
+        3, 4.10 > 3.92
+-   name: primeiro maior é primeiro
+    input: |
+        6.0
+        1.0
+        1.0
+        1.0
+        1.0
+        fim
+    output: |
+        0, 6.00 > 2.00
+-   name: primeiro maior é último
+    input: |
+        1.0
+        1.0
+        1.0
+        1.0
+        6.0
+        fim
+    output: |
+        4, 6.00 > 2.00
+-   name: apenas dois valores, segundo maior
+    input: |
+        1.0
+        2.0
+        fim
+    output: |
+        1, 2.00 > 1.50
+-   name: apenas dois valores, primeiro maior
+    input: |
+        2.0
+        1.0
+        fim
+    output: |
+        0, 2.00 > 1.50

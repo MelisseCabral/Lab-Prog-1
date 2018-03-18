@@ -1,0 +1,10 @@
+example_tests:
+-   name: exemplo 1
+    input: |
+        asa
+        controle
+        janela
+        ***
+    output: |
+        Palavras: 2
+

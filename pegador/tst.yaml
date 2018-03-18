@@ -1,0 +1,12 @@
+example_tests:
+-   name: |-
+        dois
+    input: |
+        3
+        3 6
+        8 15
+        16 21
+    output: |
+        7 horas durou a maior pegada
+        3 horas sem pegar ninguem
+

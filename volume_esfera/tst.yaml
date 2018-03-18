@@ -1,0 +1,6 @@
+example_tests:
+-   name: exemplo
+    input: |
+        10.0
+    output: |
+        Raio da esfera? Volume da esfera: 4188.79 cm3

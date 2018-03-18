@@ -1,0 +1,22 @@
+example_tests:
+-   name: exemplo1
+    input: |
+        5
+        8.0
+        5.0
+        9.0
+        6.0
+        9.0
+    output: |
+        2 (40.0%) alunos na final
+        Média das notas: 5.5
+-   name: exemplo2
+    input: |
+        5
+        8.0
+        9.0
+        9.0
+        7.0
+        9.0
+    output: |
+        0 (0.0%) alunos na final

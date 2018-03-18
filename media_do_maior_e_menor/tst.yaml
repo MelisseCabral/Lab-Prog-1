@@ -1,0 +1,15 @@
+example_tests:
+-   name: exemplo 1
+    input: |
+        10
+        6
+        7
+        15
+        8
+        -1
+    output: |
+        maior: 15
+        menor: 6
+        média: 10
+        3 número(s) abaixo da média
+

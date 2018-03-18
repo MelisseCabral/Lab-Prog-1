@@ -1,0 +1,16 @@
+example_tests:
+-   name: exemplo1
+    input: |
+        8
+        3
+        2
+        7
+        1
+        0
+        5
+        2
+        4
+    output: |
+        Menor dos extremos: 3
+        4 número(s) abaixo do menor
+        3 número(s) acima do menor

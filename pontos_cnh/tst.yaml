@@ -1,0 +1,14 @@
+example_tests:
+-   name: |-
+        exemplo 1
+    input: |
+        Grave Gravíssima Leve
+    output: |
+        15 pontos. CNH válida.
+-   name: |-
+        exemplo 2
+    input: |
+        Grave Grave Grave Grave Grave
+    output: |
+        25 pontos. CNH suspensa.
+

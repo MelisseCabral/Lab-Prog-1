@@ -1,0 +1,8 @@
+example_tests:
+-   name: |-
+        exemplo
+    input: |
+        Dalton
+    output: |
+        Oi Dalton
+

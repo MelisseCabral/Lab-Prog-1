@@ -1,0 +1,41 @@
+example_tests:
+-   name: exemplo1
+    input: |
+        7
+        50032
+        21.34
+        R
+        9076
+        17.2
+        E
+        88873
+        14.04
+        R
+        54620
+        0.00
+        C
+        12345
+        5.80
+        R
+        34321
+        5.80
+        E
+        7064
+        0.00
+        C
+    output: |
+        Total do consumo (Consumidor Regular) : 41.18 kWh
+        Total do consumo (Consumidor Especial): 23.00 kWh
+        Total do consumo (Consumidor Carente) : 0.00 kWh
+        ---
+        Média de consumo (Consumidor Regular) : 13.73 kWh
+        Média de consumo (Consumidor Especial): 11.50 kWh
+        Média de consumo (Consumidor Carente) : 0.00 kWh
+        ---
+        Média geral de consumo: 9.16 kWh
+        ---
+        Consumidores acima da média geral:
+        (R) 50032 R$ 14.94
+        (E)  9076 R$ 8.60
+        (R) 88873 R$ 9.83
+        ---

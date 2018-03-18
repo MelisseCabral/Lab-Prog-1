@@ -1,0 +1,12 @@
+example_tests:
+-   name: exemplo 1
+    input: |
+        cabelos
+    output: |
+        cbls
+-   name: exemplo 2
+    input: |
+        Ana
+    output: |
+        Aa
+

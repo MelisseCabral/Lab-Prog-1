@@ -1,0 +1,18 @@
+example_tests: 
+-   name: exemplo 1
+    input: |
+        5
+        Asafa Powell, 9.99, 9.89, 10.16, 9.74, 10.22, 10.18
+        Carl Lewis, 10.91, 9.92, 9.97, 10.01, 9.96
+        Maurice Greene, 10.04, 10.23, 9.96, 9.86, 9.79, 9.94
+        Tyson Gay, 10.15, 10.12, 9.82, 9.70, 9.69, 10.02, 10.03
+        Usain Bolt, 9.98, 9.65, 9.78, 9.58, 9.65
+    output: |
+        Asafa Powell: média = 10.03, menor = 9.74
+        Carl Lewis: média = 10.15, menor = 9.92
+        Maurice Greene: média = 9.97, menor = 9.79
+        Tyson Gay: média = 9.93, menor = 9.69
+        Usain Bolt: média = 9.73, menor = 9.58
+        Menor tempo: Usain Bolt, 9.58
+        Menor média: Usain Bolt, 9.73
+    

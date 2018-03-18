@@ -1,0 +1,10 @@
+example_tests:
+-   name: |-
+        exemplo
+    input: |
+        Dalton
+    output: |
+        Dalton
+        Dalton
+        Dalton
+

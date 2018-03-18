@@ -1,0 +1,17 @@
+example_tests:
+-   name: exemplo 1
+    input: |
+        casa
+        teclados
+        fim
+    output: |
+        6.0
+-   name: exemplo 2
+    input: |
+        lua
+        luz
+        tv
+        fim
+    output: |
+        2.7
+

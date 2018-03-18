@@ -1,0 +1,14 @@
+example_tests:
+-   name: exemplo
+    input: |
+        7
+        quantas
+        destas
+        palavras
+        sao
+        iniciadas
+        por
+        consoantes
+    output: |
+        total de palavras: 7
+        iniciadas por consoantes: 6 (85.71%)

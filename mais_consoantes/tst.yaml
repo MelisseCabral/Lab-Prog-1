@@ -1,0 +1,10 @@
+example_tests:
+-   name: |-
+        exemplo 1
+    input: |
+        mouse
+        casa
+        exemplo
+    output: |
+        3
+

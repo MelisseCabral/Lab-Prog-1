@@ -1,0 +1,16 @@
+example_tests:
+-   name: exemplo1
+    input: |
+        Python
+    output: |
+        Pyth0n (1 troca(s))
+-   name: exemplo2
+    input: |
+        ZENIT
+    output: |
+        Z3N1T (2 troca(s))
+-   name: exemplo3
+    input: |
+        Abacateiro
+    output: |
+        Ab4c4t31r0 (5 troca(s))

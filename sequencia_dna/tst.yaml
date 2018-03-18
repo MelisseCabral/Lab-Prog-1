@@ -1,0 +1,16 @@
+example_tests:
+-   name: |-
+        exemplo 1
+    input: |
+        ATCGAAGT
+        ATGCTTAT
+    output: |
+        nao
+-   name: |-
+        exemplo 2
+    input: |
+        ATCGAAGT
+        AGCTAAGT
+    output: |
+        sim
+

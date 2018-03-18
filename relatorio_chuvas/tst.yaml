@@ -1,0 +1,14 @@
+example_tests:
+-   name: exemplo 1
+    input: |
+        10.1 8.5 20.2 15.5 20.8 13.7
+        jan-90 fev-90 abr-90 mai-90 jun-90 set-90
+    output: |
+        Mínimo: 8.50 (em fev-90)
+        Máximo: 20.80 (em jun-90)
+        Média: 14.80
+        --- Abaixo da média
+        jan-90: 10.10
+        fev-90: 8.50
+        set-90: 13.70
+

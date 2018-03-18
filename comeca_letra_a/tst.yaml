@@ -1,0 +1,21 @@
+example_tests:
+-   name: |-
+        exemplo 1
+    input: |
+        Brasil
+        Equador
+        Chile
+        Argentina
+    output: |
+        ---
+        3 Argentina
+-   name: |-
+        exemplo 2
+    input: |
+        arquitetura
+        computador
+        Argentina
+    output: |
+        ---
+        2 Argentina
+

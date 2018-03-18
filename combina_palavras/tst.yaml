@@ -1,0 +1,19 @@
+example_tests:
+-   name: exemplo1
+    input: |
+        boneco
+        topete
+    output: |
+        Cbtnpctoe
+-   name: exemplo2
+    input: |
+        casa
+        binario
+    output: |
+        Ccbaisnrio
+-   name: exemplo3
+    input: |
+        bolo
+        casa
+    output: |
+        Cbcoalsoa

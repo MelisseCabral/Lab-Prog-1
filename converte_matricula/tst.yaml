@@ -1,0 +1,8 @@
+example_tests:
+-   name: |-
+        exemplo 1
+    input: |
+        20511035
+    output: |
+        105110035
+

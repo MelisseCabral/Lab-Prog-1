@@ -1,0 +1,17 @@
+example_tests:
+-   name: |-
+        exemplo
+    input: |
+        4
+        3
+        6
+        8
+        11
+        0
+    output: |
+        pares: 3
+        impares: 2
+        media pares: 6.0
+        media impares: 7.0
+        media geral: 6.4
+

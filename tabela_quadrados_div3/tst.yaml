@@ -1,0 +1,23 @@
+example_tests:
+-   name: exemplo 1
+    input: |
+        15
+        19
+    output: |
+        15 225 *
+        16 256
+        17 289
+        18 324 *
+        19 361
+-   name: exemplo 3
+    input: |
+        11
+        7
+    output: |
+        ---
+-   name: exemplo 2
+    input: |
+        22
+        22
+    output: |
+        22 484
